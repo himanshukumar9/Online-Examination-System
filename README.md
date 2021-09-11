@@ -14,10 +14,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
 <!-- PROJECT LOGO -->
 
 <br />
@@ -25,7 +21,7 @@
   <a href="https://github.com/himanshukumar9/Online-Examination-System">
      </a>
   <p align="center">
-  <a href="https://onlineexamsjbit.000webhostapp.com/" target="_blank"> VISIT NOW 🚀</a>
+  <a href="https://onlineexamsjbit.000webhostapp.com/" target="_blank"> CHECK THIS PROJECT LIVE HERE 🚀</a>
   </p>
 <!-- TABLE OF CONTENTS -->
 
@@ -40,8 +36,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Installation](#installation)
-* [Live Link](#Live-Link-(Netlify))
 * [Built With](#built-with)
 * [Future Updates](#future-updates)
 * [Contact](#Authors)
