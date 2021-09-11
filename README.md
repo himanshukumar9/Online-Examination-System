@@ -55,7 +55,7 @@ Online Examination System is Build using HTML,CSS and JAVASCRIPT for Frontend, P
 - PHP
 - MYSQL
 
-- [Heroku](https://onlineexamsjbit.000webhostapp.com/)
+- [WEBHOST](https://onlineexamsjbit.000webhostapp.com/)
 
   <!-- CONTACT -->
 
